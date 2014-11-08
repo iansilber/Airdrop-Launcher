@@ -1,3 +1,3 @@
-Airdrop-Launcher
+Airdrop Launcher
 ================
-Download it here: [Airdrop Launcher](Launch%20Airdrop.app)
+[Download Airdrop Launcher](https://github.com/iansilber/Airdrop-Launcher/airdrop.zip).

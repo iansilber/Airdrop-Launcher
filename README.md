@@ -1,4 +1,3 @@
-![Alt text](airdrop.png)
 <img align="center" src="airdrop.png" width="100" height="100">
 Airdrop Launcher
 ================

@@ -1,4 +1,4 @@
-<img align="center" src="airdrop.png" width="100" height="100">
+<img align="middle" src="airdrop.png" width="100" height="100">
 Airdrop Launcher
 ================
 Access Airdrop from your dock or Spotlight.
